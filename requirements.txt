@@ -1,0 +1,11 @@
+# Requirements for STO Non-Issuance Replication Package
+# Koki Arai, Kyoritsu Women's University / JSPS KAKENHI 23K01404
+#
+# All packages are pre-installed in Google Colab.
+# For local installation: pip install -r requirements.txt
+#
+# Python >= 3.9 required.
+
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
